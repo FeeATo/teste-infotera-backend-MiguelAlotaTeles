@@ -1,7 +1,7 @@
 # Teste Infotera Backend - Miguel Alota Teles
 Teste para a vaga de Desenvolvedor Java Júnior Back-end da InfoTera.
 
-### Como rodar*
+### Como rodar
 Basta baixar o projeto e rodar a classe **TesteInfoteraApplication.java**.
 
 > **Caminho:** <br>
